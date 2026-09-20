@@ -1,19 +1,16 @@
 # MyProfile-README
 
-# Hi, I'm Amit 👋  
-🚀 **Azure Data Engineer | Databricks | PySpark | SQL | Cloud Data Solutions**
+🚀 Senior Infrastructure & Cloud Operations Engineer with 10+ years of experience managing enterprise Windows infrastructure, hybrid cloud environments, Azure-integrated platforms, and large-scale monitoring systems.
 
-I'm a **Databricks Certified Professional Data Engineer** with 5+ years of experience in 
-designing scalable data pipelines, migrating legacy systems to cloud, and delivering 
-real-time analytics on **Azure Data Factory, Azure Databricks, PySpark, and SQL**.
+☁️ Experienced in Hybrid Cloud Infrastructure, Azure Operations, Azure SQL, Azure Monitor, On-Prem to Azure Migration, PowerShell Automation, Infrastructure Monitoring, IAM, and Production Support.
 
-💡 **What you'll find here:**
-- End-to-end Azure data engineering projects
-- ETL pipelines using **ADF + Databricks**
-- Optimized PySpark transformations
-- SQL scripts for data modeling and reporting
-- Real-world case studies (Patching, Insurance, etc.)
+🖥️ Strong on-prem background experience supporting large-scale enterprise environments across global data centers with expertise in Windows Server, AD, Enterprise monitoring, Patching, Anti-virus solutions, operational automation, and PCI compliance.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amit-sanwal/) | [Email](mailto:amitsanwal20@gmail.com)
+⚡ Passionate about infrastructure modernization, automation, operational excellence, and solving complex production issues in high-availability enterprise environments.
+
+🔧 Core Skills:
+Hybrid Cloud | Azure | Windows Infrastructure | PowerShell | Monitoring & Observability | IAM | Automation | PCI/SOX Compliance | Incident Management | Infrastructure Operations
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amitt-sanwal/) | [Email](mailto:amitsanwal20@gmail.com)
 
 ---
